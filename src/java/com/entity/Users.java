@@ -25,4 +25,8 @@ public class ueses{
                 ", password='" + password + '\'' +
                 '}';
     }
+
+    public static void main(String[] args) {
+
+    }
 }
